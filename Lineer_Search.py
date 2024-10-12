@@ -1,13 +1,3 @@
-def list_sourt(liste):
-	for i in range(len(liste)):
-
-		for j in range(i+1,len(liste)):
-
-			if liste[i] > liste[j]:
-
-				liste[i], liste[j] = liste[j], liste[i]
-	return liste
-
 def lineer_search(liste, value):
 
     for index, item in enumerate(liste):
@@ -20,6 +10,6 @@ liste = [94, 13, 14, 45, 4, 34, 11, 36, 87, 35, 47, 82, 75, 99, 54, 50, 43, 22, 
 
 value = 1
 
-index= lineer_search(list_sourt(liste), value)
+index= lineer_search(liste, value)
 
 print(index)
