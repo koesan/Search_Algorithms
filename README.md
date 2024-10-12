@@ -4,4 +4,6 @@ Bu proje, çeşitli arama algoritmalarının Python dilindeki uygulamalarını i
 
 # Lineer Arama Algoritması
 
-Lineer arama, bir dizide belirli bir öğeyi bulmak için kullanılan basit bir algoritmadır. Algoritma, dizinin her bir elemanını sırasıyla kontrol ederek aranan öğeyi bulmaya çalışır. Leneer search algoritmasına dizi sıralı olmasına gerek yoktur.
+Lineer search, bir dizide belirli bir öğeyi bulmak için kullanılan basit bir algoritmadır. Algoritma, dizinin her bir elemanını sırasıyla kontrol ederek aranan öğeyi bulmaya çalışır. Leneer search algoritmasına dizi sıralı olmasına gerek yoktur.
+
+***
